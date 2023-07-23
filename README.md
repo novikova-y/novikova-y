@@ -4,4 +4,4 @@ I am a QA engineer with over 7 years of experience in quality assurance and test
 ![memememe](https://user-images.githubusercontent.com/13204038/232150144-62f6f520-a0b6-4fa8-9cd6-934710392f6f.png)
 
 ## My CV 📝
-[Yulia Novikova][Yulia Novikova CV.pdf](https://github.com/novikova-y/novikova-y/files/12139923/Yulia.Novikova.CV.pdf)
+[Yulia Novikova](https://github.com/novikova-y/novikova-y/files/12139923/Yulia.Novikova.CV.pdf)
