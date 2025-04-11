@@ -10,8 +10,7 @@ I specialize in automated and manual testing and have hands-on experience with t
 - Collaborate closely with developers, PMs, and designers to deliver value, not just features
 
 ### 🧠 How I learn
-I believe learning is most effective when it's fun!  
-It's my way of combining humor with tech to make even the most mundane tasks a bit more interesting.
+I believe learning is most effective when it's fun! As someone passionate about staying current in tech, I combine humor with hands-on experimentation to keep the process engaging and effective. This mindset helps me continuously improve my skills and approach to QA.
 
 ### 🤝 Let's connect
 Check out [my CV](https://github.com/user-attachments/files/19638967/Yulia.Novikova.CV.pdf), explore the repos, or just [say hi](https://www.linkedin.com/in/yulia-s-novikova/)!
