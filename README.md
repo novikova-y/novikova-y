@@ -5,7 +5,7 @@ I specialize in automated and manual testing and have hands-on experience with t
 
 ![mememememe](https://github.com/novikova-y/novikova-y/assets/13204038/db196163-f7c3-48a0-a70f-5a6c5bd5f9bf)
 
-### 🧪 What I do
+### 👩🏻‍💻 What I do
 - Ensure product quality by combining structured testing with a curious mindset
 - Collaborate closely with developers, PMs, and designers to deliver value, not just features
 
