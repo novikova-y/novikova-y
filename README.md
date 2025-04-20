@@ -1,7 +1,6 @@
 ## Hi, I'm Yulia 👋
 
-I'm a QA engineer with over 8 years of experience in quality assurance and testing of various applications across different domains.  
-I specialize in automated and manual testing and have hands-on experience with tools like Selenium, Cypress, and Postman.
+I'm a QA engineer with over 8 years of experience in testing. I focus on making QA processes clear and efficient, and I enjoy helping teams collaborate better. I'm always open to learning something new.
 
 ![mememememe](https://github.com/novikova-y/novikova-y/assets/13204038/db196163-f7c3-48a0-a70f-5a6c5bd5f9bf)
 
