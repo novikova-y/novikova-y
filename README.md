@@ -12,4 +12,5 @@ I'm a QA engineer with over 8 years of experience in testing. I focus on making 
 I believe learning is most effective when it's fun! As someone passionate about staying current in tech, I combine humor with hands-on experimentation to keep the process engaging and effective. This mindset helps me continuously improve my skills and approach to QA.
 
 ### 🤝 Let's connect
-Check out [my CV](https://github.com/user-attachments/files/19638967/Yulia.Novikova.CV.pdf), explore the repos, or just [say hi](https://www.linkedin.com/in/yulia-s-novikova/)!
+Check out [my CV](https://github.com/user-attachments/files/19834062/Yulia.Novikova.CV.pdf), explore the repos, or just [say hi](https://www.linkedin.com/in/yulia-s-novikova/)!
+
