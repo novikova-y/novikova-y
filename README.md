@@ -1,15 +1,29 @@
 ## Hi, I'm Yulia 👋
 
-I'm a QA engineer with over 8 years of experience in testing. I focus on making QA processes clear and efficient, and I enjoy helping teams collaborate better. I'm always open to learning something new.
+QA Engineer with 8+ years of experience delivering quality that drives business success.
+I design efficient QA processes that improve team productivity and product quality. Always curious, always learning — focused on business value, not just bugs.
 
 ![mememememe](https://github.com/novikova-y/novikova-y/assets/13204038/db196163-f7c3-48a0-a70f-5a6c5bd5f9bf)
 
 ### 👩🏻‍💻 What I do
-- Ensure product quality by combining structured testing with a curious mindset
-- Collaborate closely with developers, PMs, and designers to deliver value, not just features
+I ensure product quality by aligning QA efforts with business goals.
+My work is not just about testing — it’s about protecting the user experience, supporting fast and confident releases, and helping teams deliver features that matter.
+
+I collaborate closely with developers, PMs, and designers to:
+- Design meaningful test strategies rooted in real user behavior  
+- Implement scalable, maintainable test automation  
+- Reduce risk and improve speed through smart validation, not over-testing
+
+I'm actively learning Playwright and TypeScript through hands-on projects, while experimenting with AI agent flows to better understand and test complex logic.
 
 ### 🧠 How I learn
-I believe learning is most effective when it's fun! As someone passionate about staying current in tech, I combine humor with hands-on experimentation to keep the process engaging and effective. This mindset helps me continuously improve my skills and approach to QA.
+I treat learning as a creative process. From new testing frameworks to AI-assisted workflows, I explore technologies hands-on, always with curiosity and a touch of humor.
+
+### 🎯 What I care about
+- Building QA practices that scale with the product  
+- Continuous improvement, clear communication, and product intuition  
+- Being the voice of the user — even in edge cases  
 
 ### 🤝 Let's connect
-Check out [my CV](https://github.com/user-attachments/files/21315271/Yulia.Novikova.CV.pdf), explore the repos, or just [say hi](https://www.linkedin.com/in/yulia-s-novikova/)!
+
+Check out [my CV](https://github.com/user-attachments/files/21315271/Yulia.Novikova.CV.pdf), explore my projects, or just [say hi](https://www.linkedin.com/in/yulia-s-novikova/). I’m always open to exchanging ideas with fellow builders.
