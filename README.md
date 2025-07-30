@@ -26,4 +26,5 @@ I treat learning as a creative process. From new testing frameworks to AI-assist
 
 ### 🤝 Let's connect
 
-Check out [my CV](https://github.com/user-attachments/files/21315271/Yulia.Novikova.CV.pdf), explore my projects, or just [say hi](https://www.linkedin.com/in/yulia-s-novikova/). I’m always open to exchanging ideas with fellow builders.
+Check out [my CV](https://github.com/user-attachments/files/21518470/Yulia.Novikova.CV.pdf), explore my projects, or just [say hi](https://www.linkedin.com/in/yulia-s-novikova/). I’m always open to exchanging ideas!
+
