@@ -1,6 +1,6 @@
 ## Hi, I'm Yulia 👋
 
-QA Engineer with 8+ years of experience delivering quality that drives business success.
+Senior QA Engineer with 8+ years of experience delivering quality that drives business success.
 I design efficient QA processes that improve team productivity and product quality. Always curious, always learning — focused on business value, not just bugs.
 
 ![mememememe](https://github.com/novikova-y/novikova-y/assets/13204038/db196163-f7c3-48a0-a70f-5a6c5bd5f9bf)
